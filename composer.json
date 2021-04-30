@@ -8,7 +8,7 @@
         "php": "^7.2.26",
         "barryvdh/laravel-dompdf": "^0.8.5",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.20.*",
         "intervention/image": "dev-master",
         "laravel/tinker": "^1.0",
         "simplesoftwareio/simple-qrcode": "^2.0",
